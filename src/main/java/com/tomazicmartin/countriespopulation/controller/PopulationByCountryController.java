@@ -67,7 +67,7 @@ public class PopulationByCountryController {
     }
 }
 
-/* example input json
+/* example input json testek
 [{
         "page": 1,
         "pages": 6,
